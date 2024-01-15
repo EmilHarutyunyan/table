@@ -1,0 +1,14 @@
+.canvasWrapper p {
+	text-align: center;
+	margin-top: 30px;
+}
+.canvasWrapper canvas {
+	display: block;
+	margin: 0px auto;
+	position: relative;
+	background-image: url("../../assets/images/table.jpg");
+	background-size: contain;
+	background-position: center;
+	margin-bottom: 30px;
+
+}

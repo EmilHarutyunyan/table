@@ -1,0 +1,22 @@
+.settings {
+  max-width: 800px;
+  margin: 15px auto;
+  width: 100%;
+  text-align: center;
+}
+
+
+.settingItems {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+.settingItems input {
+  padding: 3px 8px;
+}
+.settingItems select {
+  padding: 3px 15px;
+}
+.settingSpace {
+
+}

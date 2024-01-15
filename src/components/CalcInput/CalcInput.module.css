@@ -1,0 +1,40 @@
+.calcWrapper {
+	max-width: 800px;
+	margin: 0 auto;
+	width: 100%;
+}
+
+.calcWrapper form {
+	gap: 10px;
+
+	display: flex;
+	align-items: end;
+	justify-content: center;
+
+}
+
+.calcWrapper form label {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+.calcWrapper form label input {
+	padding: 5px;
+	
+}
+.calcWrapper form input[type='submit'] {
+	padding: 5px 20px;
+
+}
+.calcWrapper form input[type='button'] {
+	padding: 5px 20px;
+
+}
+.calcActionWrap {
+	display: flex;
+	align-items: end;
+	justify-content: center;
+	gap: 10px;
+	margin-top: 10px;
+}
